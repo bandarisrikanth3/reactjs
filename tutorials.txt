@@ -1,0 +1,13 @@
+Started reactjs on 2023
+-desktop
+-mobile apps
+- faecbook, netflix use reactjs
+- components model
+-- nice bug free code
+-virtual dom
+--reduce max dom manipulation
+--reactjs creates virtual dom
+-great eco system (React eco system)
+--npm
+--webpack
+--node
