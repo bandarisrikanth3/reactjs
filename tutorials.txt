@@ -11,3 +11,34 @@ Started reactjs on 2023
 --npm
 --webpack
 --node
+-------------------------
+-Create React App (view)
+-npx vs npm
+--npx - package runner cli tool which can we execute
+----------------------
+React Folder Structure
+-package.json
+--scripts (runs the command)
+--dependencies
+-package-lock
+--can use everywhere
+----------------------------
+React Fundamentals
+-Src
+-Hooks vs Classes
+- Class vs Functional App
+class App extends ReactDOM.components() {
+    return (
+        <div></div>
+    )
+}
+
+function App() {
+    return (
+        <div></div>
+    )
+}
+
+---------------------------------------
+Servic Worker File
+registerServiceworker.js. Therefore you can ignore the registerServiceworker() in index.js that you will see in the next video since we will not be using it.
