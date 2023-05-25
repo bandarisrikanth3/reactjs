@@ -42,3 +42,19 @@ function App() {
 ---------------------------------------
 Servic Worker File
 registerServiceworker.js. Therefore you can ignore the registerServiceworker() in index.js that you will see in the next video since we will not be using it.
+---------------------------------------
+JSX
+
+STATE >> props >> Children
+style in {{}}
+APp.js called as smart components
+
+life cycle methods
+mounting - starting of the app
+constructor
+componentWillMount()
+render()
+componentDidMount
+
+updating - updates
+unmounting - component removed from page
