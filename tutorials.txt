@@ -1,0 +1,60 @@
+Started reactjs on 2023
+-desktop
+-mobile apps
+- faecbook, netflix use reactjs
+- components model
+-- nice bug free code
+-virtual dom
+--reduce max dom manipulation
+--reactjs creates virtual dom
+-great eco system (React eco system)
+--npm
+--webpack
+--node
+-------------------------
+-Create React App (view)
+-npx vs npm
+--npx - package runner cli tool which can we execute
+----------------------
+React Folder Structure
+-package.json
+--scripts (runs the command)
+--dependencies
+-package-lock
+--can use everywhere
+----------------------------
+React Fundamentals
+-Src
+-Hooks vs Classes
+- Class vs Functional App
+class App extends ReactDOM.components() {
+    return (
+        <div></div>
+    )
+}
+
+function App() {
+    return (
+        <div></div>
+    )
+}
+
+---------------------------------------
+Servic Worker File
+registerServiceworker.js. Therefore you can ignore the registerServiceworker() in index.js that you will see in the next video since we will not be using it.
+---------------------------------------
+JSX
+
+STATE >> props >> Children
+style in {{}}
+APp.js called as smart components
+
+life cycle methods
+mounting - starting of the app
+constructor
+componentWillMount()
+render()
+componentDidMount
+
+updating - updates
+unmounting - component removed from page
